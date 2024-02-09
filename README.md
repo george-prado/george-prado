@@ -6,13 +6,13 @@ Atuo como desenvolvedor freelancer há cerca de dois anos, atuando em projetos w
 
 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ##
-### Olá! Meu nome é Leonardo! 👋
+### Sobre mim 👋
 - 🔭 Desenvolvedor Freelancer / *Open to Work* 
 - 🚀 Graduando em Análise e Desenvolvimento de Sistemas - UNINTER
 - ☕ Full Stack 
 - 💬 Contato: georgepradoti@gmail.com 📫
 ##
-### Hey! My name is Leonardo! 👋
+### About me 👋
 - 🔭 Freelancer Software Developer / *Open to Work* 
 - 🚀 Undergraduate in Systems Analysis and Development - UNINTER
 - ☕ Full Stack
