@@ -9,13 +9,13 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ### Sobre mim 👋
 - 🔭 Desenvolvedor Freelancer / *Open to Work* 
 - 🚀 Graduando em Análise e Desenvolvimento de Sistemas - UNINTER
-- ☕ Full Stack 
+- ☕ Desenvolvedor Full Stack 
 - 💬 Contato: georgepradoti@gmail.com 📫
 ##
 ### About me 👋
 - 🔭 Freelancer Software Developer / *Open to Work* 
 - 🚀 Undergraduate in Systems Analysis and Development - UNINTER
-- ☕ Full Stack
+- ☕ Full Stack Developer
 - 💬 Contact me: georgepradoti@gmail.com 📫
 
 
