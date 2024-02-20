@@ -19,6 +19,8 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 - 💬 Contact me: georgepradoti@gmail.com 📫
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact)
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
