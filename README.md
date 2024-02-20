@@ -22,7 +22,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-prado&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-prado)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
