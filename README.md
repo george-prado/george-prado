@@ -28,7 +28,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact"/>
 </div>
 
-<div align="center" style="display: inline-block; margin-top: 20px;">
+<div align="center" style="display: inline-block;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
