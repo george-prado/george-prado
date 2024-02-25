@@ -1,3 +1,6 @@
+<p align="center"><b>Visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{george-prado}/count.svg" /></p> 
+  <br>
 
 ### Olá, tudo bem?
 Me chamo George, sou um Desenvolvedor de Software Full Stack, minhas principais tecnologias são **C#** e todo o ecossistema **.NET**, sobretudo **ASP.NET**. Utilizo também **Angular** e **React**. Quanto a bancos de dados, possuo experiência com **SQL Server**, **PostgreSQL**, **Redis** e **mongoDB**. Atualmente estou estudando containerização (Docker), orquestradores (Kubernetes) e *Cloud Computing* (Azure/AWS).
@@ -20,9 +23,6 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 
 
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{george-prado}/count.svg" /></p> 
   <br>
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
   <br>
@@ -51,6 +51,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:georgepradoti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
+  <p style="margin-bottom: 20px;"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact"/>
 </div>
