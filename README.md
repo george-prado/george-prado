@@ -19,6 +19,10 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 - 💬 Contact me: georgepradoti@gmail.com 📫
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{george-prado}/count.svg" /></p> 
+</div>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
 
@@ -47,6 +51,5 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 
 <div> 
   <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/george-prado/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/george-prado-profile-views"/></a>
+  <a href = "mailto:georgepradoti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
