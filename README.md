@@ -20,13 +20,13 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{george-prado}/count.svg" /></p> 
 </div>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
+<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact)
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact)</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
