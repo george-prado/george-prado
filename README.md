@@ -1,11 +1,10 @@
 <p align="center"><b>Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{george-prado}/count.svg" /></p> 
-  <br>
 
 ### Olá, tudo bem?
 Me chamo George, sou um Desenvolvedor de Software Full Stack, minhas principais tecnologias são **C#** e todo o ecossistema **.NET**, sobretudo **ASP.NET**. Utilizo também **Angular** e **React**. Quanto a bancos de dados, possuo experiência com **SQL Server**, **PostgreSQL**, **Redis** e **mongoDB**. Atualmente estou estudando containerização (Docker), orquestradores (Kubernetes) e *Cloud Computing* (Azure/AWS).
 
-Atuo como desenvolvedor *freelancer* há cerca de dois anos, atuando em projetos web tanto em Front-End como em Back-End para clientes nacionais e internacionais.
+Atuo como desenvolvedor freelancer há cerca de dois anos, atuando em projetos web tanto em Front-End como em Back-End para clientes nacionais e internacionais.
 
 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ##
@@ -22,13 +21,14 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 - 💬 Contact me: georgepradoti@gmail.com 📫
 
 
+
 <div align="center">
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
   <p style="margin-bottom: 20px;"></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact"/>
 </div>
 
-<div align="center" style="display: inline-block; margin-top: 20px;">
+<div align="center" style="display: inline_block;"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,10 +47,9 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
 
-<hr style="margin-top: 5px; margin-bottom: 20px;">
+##
 
-<div align="center">
+<div> 
   <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:georgepradoti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:georgepradoti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
