@@ -47,7 +47,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
 
-##
+<hr style="margin-top: 5px; margin-bottom: 20px;">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
