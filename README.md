@@ -22,7 +22,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 - 💬 Contact me: georgepradoti@gmail.com 📫
 
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
   <p style="margin-bottom: 20px;"></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact"/>
