@@ -2,7 +2,7 @@
 ### Olá, tudo bem?
 Me chamo George, sou um Desenvolvedor de Software Full Stack, minhas principais tecnologias são **C#** e todo o ecossistema **.NET**, sobretudo **ASP.NET**. Utilizo também **Angular** e **React**. Quanto a bancos de dados, possuo experiência com **SQL Server**, **PostgreSQL**, **Redis** e **mongoDB**. Atualmente estou estudando containerização (Docker), orquestradores (Kubernetes) e *Cloud Computing* (Azure/AWS).
 
-Atuo como desenvolvedor freelancer há cerca de dois anos, atuando em projetos web tanto em Front-End como em Back-End para clientes nacionais e internacionais.
+Atuo como desenvolvedor *freelancer* há cerca de dois anos, atuando em projetos web tanto em Front-End como em Back-End para clientes nacionais e internacionais.
 
 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ##
@@ -20,7 +20,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 
 
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact)
 
@@ -46,5 +46,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/george-prado/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/george-prado-profile-views"/></a>
 </div>
