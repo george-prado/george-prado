@@ -2,7 +2,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{george-prado}/count.svg" /></p> 
 
 ### Olá, tudo bem?
-Me chamo George, sou um Desenvolvedor de Software Full Stack, minhas principais tecnologias são **C#** e todo o ecossistema **.NET**, sobretudo **ASP.NET**. Utilizo também **Angular** e **React**. Quanto a bancos de dados, possuo experiência com **SQL Server**, **PostgreSQL**, **Redis** e **mongoDB**. Atualmente estou estudando containerização (Docker), orquestradores (Kubernetes) e *Cloud Computing* (Azure/AWS).
+Me chamo George, sou um Desenvolvedor de Software Full Stack, minhas principais tecnologias são **C#** e todo o ecossistema **.NET**, sobretudo **ASP.NET**. Utilizo também **Angular** e **React**. Quanto a bancos de dados, possuo experiência com **SQL Server**, **PostgreSQL**, **Redis** e **mongoDB**. Atualmente estou estudando a linguagem **Go**, containerização (Docker), orquestradores (Kubernetes) e *Cloud Computing* (AWS).
 
 Atuo como desenvolvedor freelancer há cerca de dois anos, atuando em projetos web tanto em Front-End como em Back-End para clientes nacionais e internacionais.
 
