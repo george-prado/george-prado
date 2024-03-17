@@ -9,13 +9,13 @@ Atuo como desenvolvedor freelancer há cerca de dois anos, atuando em projetos w
 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 ##
 ### Sobre mim 👋
-- 🔭 Desenvolvedor Freelancer / *Open to Work* 
+- 🔭 Desenvolvedor Full Stack
 - 🚀 Graduando em Análise e Desenvolvimento de Sistemas
 - ☕ Desenvolvedor Full Stack 
 - 💬 Contato: georgepradoti@gmail.com 📫
 ##
 ### About me 👋
-- 🔭 Freelancer Software Developer / *Open to Work* 
+- 🔭 Full Stack Software Developer
 - 🚀 Undergraduate in Systems Analysis and Development
 - ☕ Full Stack Developer
 - 💬 Contact me: georgepradoti@gmail.com 📫
