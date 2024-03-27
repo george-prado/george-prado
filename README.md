@@ -22,7 +22,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 
 
 ##
-### Stats 📊
+### My Stats 📊
 <div align="center">
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
   <p style="margin-bottom: 20px;"></p>
