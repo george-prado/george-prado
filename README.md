@@ -23,7 +23,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
 <div align="center">
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=george-prado&theme=ayu-light"/>
   <p style="margin-bottom: 20px;"></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=donut&langs_count=7"/>
   <p style="margin-bottom: 40px;"></p>
 </div>
 
