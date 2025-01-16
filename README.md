@@ -1,22 +1,30 @@
 ### Olá, tudo bem?
-Me chamo George, sou um Desenvolvedor de Software Full Stack, minhas principais tecnologias são **C#** e todo o ecossistema **.NET**, sobretudo **ASP.NET**. Utilizo também **Angular** e **React**. Quanto a bancos de dados, possuo experiência com **SQL Server**, **PostgreSQL**, **Redis** e **mongoDB**. Atualmente estou aprofundando os estudos em **Angular**, containerização (Docker), orquestradores (Kubernetes) e *Cloud Computing* (AWS).
+Me chamo George, sou um Desenvolvedor de Software Full Stack com mais de 3 anos de experiência profissional (e mais de 10 anos de estudo), atuando com clientes nacionais e internacionais em diversos setores, como finanças, aeroespacial, logística e varejo.
 
-Atuo como desenvolvedor freelancer há cerca de dois anos, atuando em projetos web tanto em Front-End como em Back-End para clientes nacionais e internacionais.
-
-Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela UNINTER.
+Tenho expertise em desenvolvimento Back-End, Front-End e Mobile, com forte foco em Back-End. Minha experiência abrange bancos de dados relacionais e não-relacionais, computação em nuvem (AWS, GCP) e containerização usando Docker. Construi pipelines de CI/CD com GitHub Actions e Jenkins, integrei serviços de mensageria como Kafka e RabbitMQ, e desenvolvi testes automatizados (unitários e E2E). Também implementei padrões de design (Factory, Observer, Builder, Strategy, Singleton) e trabalhei com arquiteturas como microservices, hexagonal, monólitos modulares e camadas.
 ##
 ### Sobre mim 👋
-- 🔭 Desenvolvedor Full Stack
+- 🔭 Desenvolvedor de Software Full Stack
 - 🚀 Graduando em Análise e Desenvolvimento de Sistemas
-- ☕ Desenvolvedor Full Stack 
+- ☕ Atualmente estudando para a AWS Certified Solutions Architect Associate
 - 💬 Contato: georgepradoti@gmail.com 📫
 ##
 ### About me 👋
 - 🔭 Full Stack Software Developer
 - 🚀 Undergraduate in Systems Analysis and Development
-- ☕ Full Stack Developer
+- ☕ Currently studying for AWS Certified Solutions Architect Associate
 - 💬 Contact me: georgepradoti@gmail.com 📫
+##
+### My Core Technologies 🛠️
+- Languages: Java, Kotlin, Golang, C#, JavaScript/TypeScript, Clojure, Python, Dart
+- Frameworks: Spring Boot, Quarkus, ASP.NET, Nest.js, FastAPI, Angular, React, Flutter
+- Testing: Jest, Jasmine, JUnit, xUnit, Mockery, Testify
+- Version Control: Git, GitHub, GitLab, BitBucket
+- Databases: PostgreSQL, OracleDB, MySQL, SQL Server, DynamoDB, Redis
+- Messaging: Apache Kafka, RabbitMQ, SQS
+- Cloud: AWS, GCP
 
+English Level: C1
 
 ##
 ### My Stats 📊
