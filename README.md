@@ -16,9 +16,9 @@ Tenho expertise em desenvolvimento Back-End, Front-End e Mobile, com forte foco 
 - 💬 Contact me: georgepradoti@gmail.com 📫
 ##
 ### My Core Technologies 🛠️
-- Languages: Java, Kotlin, Golang, C#, JavaScript/TypeScript, Clojure, Python, Dart
-- Frameworks: Spring Boot, Quarkus, ASP.NET, Nest.js, FastAPI, Angular, React, Flutter
-- Testing: Jest, Jasmine, JUnit, xUnit, Mockery, Testify
+- Languages: Java, Kotlin, Golang, C#, JavaScript/TypeScript
+- Frameworks: Spring Boot, Quarkus, ASP.NET, Nest.js, Angular, React
+- Testing: Jest, JUnit, xUnit
 - Version Control: Git, GitHub, GitLab, BitBucket
 - Databases: PostgreSQL, OracleDB, MySQL, SQL Server, DynamoDB, Redis
 - Messaging: Apache Kafka, RabbitMQ, SQS
