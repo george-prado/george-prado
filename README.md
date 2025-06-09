@@ -1,5 +1,5 @@
 ### Olá, tudo bem?
-Me chamo George, sou um Desenvolvedor de Software Full Stack com mais de 3 anos de experiência profissional (e mais de 10 anos de estudo), atuando com clientes nacionais e internacionais em diversos setores, como finanças, aeroespacial, logística e varejo.
+Me chamo George, sou um Desenvolvedor de Software Full Stack com cerca de 4 anos de experiência profissional (e mais de 10 anos de estudo), atuando com clientes nacionais e internacionais em diversos setores, como finanças, aeroespacial, logística e varejo.
 
 Tenho expertise em desenvolvimento Back-End, Front-End e Mobile, com forte foco em Back-End. Minha experiência abrange bancos de dados relacionais e não-relacionais, computação em nuvem (AWS, GCP) e containerização usando Docker. Construi pipelines de CI/CD com GitHub Actions e Jenkins, integrei serviços de mensageria como Kafka e RabbitMQ, e desenvolvi testes automatizados (unitários e E2E). Também implementei padrões de design (Factory, Observer, Builder, Strategy, Singleton) e trabalhei com arquiteturas como microservices, hexagonal, monólitos modulares e camadas.
 ##
