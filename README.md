@@ -28,7 +28,7 @@ English Level: C1
 
 ##
 ### My Stats 📊
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=donut-vertical&hide=javascript,html,scss,css)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact&hide=javascript,html,scss,css)
 
 
 <div align="center" style="display: inline_block;"><br>
