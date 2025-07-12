@@ -25,12 +25,13 @@ Tenho expertise em desenvolvimento Back-End, Front-End e Mobile, com forte foco 
 - Cloud: AWS, GCP
 
 English Level: C1
+<h3 align="center">My Stats 📊</h3>
 
-##
-### My Stats 📊
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&layout=compact&langs_count=8&card_width=320&hide=javascript,html,scss,css" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&layout=compact&langs_count=8&card_width=320&hide=javascript,html,scss,css" />
+  </a>
+</p>
 
 <div align="center" style="display: inline_block;"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
