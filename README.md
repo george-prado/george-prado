@@ -30,7 +30,7 @@ English Level: C1
 ### My Stats 📊
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&hide=javascript,html)
-  <p style="margin-bottom: 40px;"></p>
+  <br><br>
 </div>
 
 <div align="center" style="display: inline_block;"><br>
