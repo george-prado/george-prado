@@ -28,9 +28,9 @@ English Level: C1
 
 ##
 ### My Stats 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-prado&layout=compact&hide=javascript,html,scss,css" />
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&layout=compact&langs_count=8&card_width=320&hide=javascript,html,scss,css" />
+</a>
 
 <div align="center" style="display: inline_block;"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
