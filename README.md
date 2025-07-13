@@ -11,7 +11,7 @@ I believe infrastructure knowledge is key for modern developers. I have **solid 
 
 I'm especially passionate about **Data Structures & Algorithms**, **System Design**, **Software Architecture**, and **Cloud Computing**.
 
-English Level: C1
+**English Level: C1**
 
 ##
 ### About me 👋
