@@ -1,24 +1,31 @@
 ### Hello, nice to meet you!
 Hey, I'm George!
 
-I'm a Fullstack Developer with **4+ years of experience**, collaborating mostly with global teams across sectors like Carbon Credits & ESG, digital compliance, finance, retail, aerospace, and enterprise solutions.
+I'm a Fullstack Developer with **4+ years of experience**, collaborating mainly with global teams across sectors such as Carbon Credits & ESG, digital compliance, finance, retail, aerospace, and enterprise solutions.
 
-My main expertise is in Backend Development, having worked across ecosystems such as **Java**/Kotlin, **.NET**, and Golang, being actively involved in technical decision-making, software architecture, performance tuning, and scalability improvements.
+My core expertise lies in Backend Development, having worked across ecosystems like **Java**/Kotlin, **.NET**, and Golang, and being actively involved in technical decision-making, software architecture, performance tuning, and scalability improvements.
 
-On the Frontend, I’ve worked mostly with **React** and **Angular**, implementing Redux flow, applying Observer Pattern, refactoring legacy code for better performance, building dashboards, working with GeoJSON polygons for map tracking, and leveraging modern UI libraries.
+On the Frontend, I’ve primarily worked with **React** and **Angular**, implementing Redux flow, applying the Observer Pattern, refactoring legacy code for improved performance, building dashboards, working with GeoJSON polygons for map tracking, and leveraging modern UI libraries.
 
-I believe infrastructure knowledge is key for modern developers. I have **solid experience with Docker**, and have tackled various DevOps challenges: building pipelines/workflows, adjusting IaC resources, enhancing availability, implementing observability, and integrating messaging (e.g., **RabbitMQ**, SNS) and streaming systems (e.g., **Kafka**).
+I believe infrastructure knowledge is key for modern developers. I have **solid experience with Docker** and have tackled various DevOps challenges: building pipelines/workflows, adjusting IaC resources, enhancing availability, implementing observability, and integrating messaging systems (e.g., **RabbitMQ**, SNS) and streaming platforms (e.g., **Kafka**).
 
 I'm especially passionate about **Data Structures & Algorithms**, **System Design**, **Software Architecture**, and **Cloud Computing**.
 
-**English Level: C1**
+**English level:** C1
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:georgepradoti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+</div>
 
 ##
 ### About me 👋
-- 🔭 Fullstack Software Developer
-- 🚀 Undergraduate in Systems Analysis and Development
-- ☕ Currently studying for AWS Certified Solutions Architect Associate
-- 💬 Contact me: georgepradoti@gmail.com 📫
+- 🔭 Fullstack Software Developer  
+- 🚀 Undergraduate in Systems Analysis and Development  
+- 🧩 LeetCode enthusiast  
+- 📖 Currently reading: *Designing Distributed Systems*, by Brendan Burns  
+- ☁️ Currently studying for: AWS Certified Solutions Architect – Associate  
+- 📫 Contact me: georgepradoti@gmail.com 
 
 ## Technologies I've worked with 🛠️
 ### Languages and Frameworks
@@ -59,10 +66,3 @@ I'm especially passionate about **Data Structures & Algorithms**, **System Desig
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&layout=compact&langs_count=8&card_width=320&hide=javascript,html,scss,css" />
   </a>
 </p>
-
-
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:georgepradoti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
