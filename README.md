@@ -62,6 +62,6 @@ I'm especially passionate about **Data Structures & Algorithms**, **System Desig
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&layout=compact&langs_count=8&card_width=320&hide=javascript,html,scss,css" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&langs_count=8&card_width=320&hide=javascript,html,scss,css" />
   </a>
 </p>
