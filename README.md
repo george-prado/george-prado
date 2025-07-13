@@ -25,7 +25,6 @@ I'm especially passionate about **Data Structures & Algorithms**, **System Desig
 - 🧩 LeetCode enthusiast  
 - 📖 Currently reading: *Designing Distributed Systems*, by Brendan Burns  
 - ☁️ Currently studying for: AWS Certified Solutions Architect – Associate  
-- 📫 Contact me: georgepradoti@gmail.com 
 
 ## Technologies I've worked with 🛠️
 ### Languages and Frameworks
