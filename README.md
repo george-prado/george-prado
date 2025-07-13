@@ -1,14 +1,15 @@
 ### Hello, nice to meet you!
 Hey, I'm George!
-I'm a Fullstack Developer with 4+ years of professional experience, collaborating mostly with global teams across sectors like Carbon Credits & ESG, digital compliance, finance, retail, aerospace, and enterprise solutions.
 
-My main expertise is in Backend Development, having worked across ecosystems such as Java/Kotlin, .NET, and Golang, being actively involved in technical decision-making, software architecture, performance tuning, and scalability improvements.
+I'm a Fullstack Developer with **4+ years of experience**, collaborating mostly with global teams across sectors like Carbon Credits & ESG, digital compliance, finance, retail, aerospace, and enterprise solutions.
 
-On the Frontend, I’ve worked mostly with React and Angular, implementing Redux flow, applying Observer Pattern, refactoring legacy code for better performance, building dashboards, working with GeoJSON polygons for map tracking, and leveraging modern UI libraries.
+My main expertise is in Backend Development, having worked across ecosystems such as **Java**/Kotlin, **.NET**, and Golang, being actively involved in technical decision-making, software architecture, performance tuning, and scalability improvements.
 
-I believe infrastructure knowledge is key for modern developers. I have solid experience with Docker, and have tackled various DevOps challenges: building pipelines/workflows, adjusting IaC resources, enhancing availability, implementing observability, and integrating messaging (e.g., RabbitMQ, SNS) and streaming systems (e.g., Kafka).
+On the Frontend, I’ve worked mostly with **React** and **Angular**, implementing Redux flow, applying Observer Pattern, refactoring legacy code for better performance, building dashboards, working with GeoJSON polygons for map tracking, and leveraging modern UI libraries.
 
-I'm especially passionate about Data Structures & Algorithms, System Design, Software Architecture, and Cloud Computing.
+I believe infrastructure knowledge is key for modern developers. I have **solid experience with Docker**, and have tackled various DevOps challenges: building pipelines/workflows, adjusting IaC resources, enhancing availability, implementing observability, and integrating messaging (e.g., **RabbitMQ**, SNS) and streaming systems (e.g., **Kafka**).
+
+I'm especially passionate about **Data Structures & Algorithms**, **System Design**, **Software Architecture**, and **Cloud Computing**.
 
 English Level: C1
 
