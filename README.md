@@ -58,9 +58,9 @@ I'm especially passionate about **Data Structures & Algorithms**, **System Desig
 ![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ---
 
-!-- <h3 align="center">My Stats 📊</h3>
+ <h3 align="center">My Stats 📊</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&langs_count=8&card_width=320&hide=javascript,html,scss,css&layout=compact" />
   </a>
-</p> --!
+</p>
