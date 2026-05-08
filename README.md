@@ -1,15 +1,15 @@
 ### Hello, nice to meet you.
-Software Engineer (~5 years) focused on distributed systems, backend architecture, and high-scale event-driven platforms.
+Software Engineer (~5 years) focused on **distributed systems**, **backend architecture**, and **high-scale event-driven platforms**.
 
-Built and evolved production systems across finance, ESG/carbon credits, compliance, logistics, and enterprise domains, working in global teams and high-throughput environments.
+Built and evolved production systems across finance, ESG/carbon credits, compliance, logistics, and enterprise domains in global, **high-throughput environments**.
 
-Backend-heavy engineer with strong experience in Node.js, Java/Spring, TypeScript, and Go, designing and operating systems around Kafka-based event-driven architectures, idempotent processing, data consistency, and performance-critical workloads.
+**Backend-focused engineer** with strong experience in Node.js, Java, TypeScript, and Go, designing Kafka-based event-driven systems with emphasis on **idempotency, consistency, scalability, and performance under load**.
 
-Hands-on with system design and production scaling: latency reduction, query and aggregation optimization, message-driven workflows, and migration of legacy systems to modern distributed architectures.
+Hands-on experience with **system design** and **production scaling**: latency reduction, query and aggregation optimization, message-driven workflows, and modernization of legacy systems into distributed architectures.
 
-Cloud-native experience across AWS (Lambda, ECS, Fargate, S3, CloudFront, SQS, DynamoDB), Kubernetes, Docker, CI/CD pipelines, and Infrastructure as Code (Terraform, CDK), with strong focus on reliability, observability, and delivery in production systems.
+**Cloud-native experience on AWS** (Lambda, ECS, Fargate, S3, CloudFront, SQS, DynamoDB), Kubernetes, Docker, CI/CD pipelines, and Infrastructure as Code (Terraform, CDK), with strong focus on reliability, observability, and production delivery.
 
-Frontend experience with React and Angular for internal platforms, dashboards, and geospatial UIs (GeoJSON, D3), mainly supporting backend-driven systems.
+Frontend experience with React and Angular applied to dashboards, internal platforms, and geospatial interfaces (GeoJSON, D3), complementing backend-driven systems when needed.
 
 Strong interest in System Design, Distributed Systems, and Cloud Architecture.
 
