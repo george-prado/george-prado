@@ -1,17 +1,19 @@
 ### Hello, nice to meet you!
-Hey, I'm George!
+Software Engineer (~5 years) focused on distributed systems, backend architecture, and high-scale event-driven platforms.
 
-I'm a Fullstack Developer with **4+ years of experience**, collaborating mainly with global teams across sectors such as Carbon Credits & ESG, digital compliance, finance, retail, aerospace, and enterprise solutions.
+Built and evolved production systems across finance, ESG/carbon credits, compliance, logistics, and enterprise domains, working in global teams and high-throughput environments.
 
-My core expertise lies in Backend Development, having worked across ecosystems like **Java**/Kotlin, **.NET**, and Golang, and being actively involved in technical decision-making, software architecture, performance tuning, and scalability improvements.
+Backend-heavy engineer with strong experience in Node.js, Java/Spring, TypeScript, and Go, designing and operating systems around Kafka-based event-driven architectures, idempotent processing, data consistency, and performance-critical workloads.
 
-On the Frontend, I’ve primarily worked with **React** and **Angular**, implementing Redux flow, applying the Observer Pattern, refactoring legacy code for improved performance, building dashboards, working with GeoJSON polygons for map tracking, and leveraging modern UI libraries.
+Hands-on with system design and production scaling: latency reduction, query and aggregation optimization, message-driven workflows, and migration of legacy systems to modern distributed architectures.
 
-I believe infrastructure knowledge is key for modern developers. I have **solid experience with Docker** and have tackled various DevOps challenges: building pipelines/workflows, adjusting IaC resources, enhancing availability, implementing observability, and integrating messaging systems (e.g., **RabbitMQ**, SNS) and streaming platforms (e.g., **Kafka**).
+Cloud-native experience across AWS (Lambda, ECS, Fargate, S3, CloudFront, SQS, DynamoDB), Kubernetes, Docker, CI/CD pipelines, and Infrastructure as Code (Terraform, CDK), with strong focus on reliability, observability, and delivery in production systems.
 
-I'm especially passionate about **Data Structures & Algorithms**, **System Design**, **Software Architecture**, and **Cloud Computing**.
+Frontend experience with React and Angular for internal platforms, dashboards, and geospatial UIs (GeoJSON, D3), mainly supporting backend-driven systems.
 
-**English level:** C1
+Strong interest in System Design, Distributed Systems, and Cloud Architecture.
+
+**English**: C1 / **Spanish**: B1 / **Portuguese**: Native
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -20,19 +22,18 @@ I'm especially passionate about **Data Structures & Algorithms**, **System Desig
 
 ##
 ### About me 👋
-- 🔭 Fullstack Software Developer  
-- 🚀 Undergraduate in Systems Analysis and Development  
-- 🧩 LeetCode enthusiast  
-- 📖 Currently reading: *Designing Distributed Systems*, by Brendan Burns  
-- ☁️ Currently studying for: AWS Certified Solutions Architect – Associate  
+- 🔧 Backend Engineer focused on distributed systems & production-scale architectures
+- 🌍 ~5 years building systems across finance, ESG, compliance, logistics, and enterprise platforms
+- ⚙️ Event-driven architectures, Kafka, system design, scalability, and performance tuning in distributed systems
+- 📚 Currently reading: Designing Data-Intensive Applications (DDIA) — Martin Kleppmann
+- ☁️ AWS & cloud-native systems in production environments
+- 🧠 Focused on correctness, scalability, and reliability over frameworks and trends
 
 ## Technologies I've worked with 🛠️
 ### Languages and Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -55,12 +56,4 @@ I'm especially passionate about **Data Structures & Algorithms**, **System Desig
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![DynamoDB](	https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ---
-
- <h3 align="center">My Stats 📊</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-prado&langs_count=8&card_width=320&hide=javascript,html,scss,css&layout=compact" />
-  </a>
-</p>
