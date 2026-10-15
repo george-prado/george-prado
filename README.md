@@ -1,5 +1,5 @@
 ### Hello, nice to meet you.
-Software Engineer (~5 years) focused on **distributed systems**, **backend architecture**, and **high-scale event-driven platforms**.
+Senior Software Engineer (5+ years of experience) focused on **distributed systems**, **backend architecture**, and **high-scale event-driven platforms**.
 
 Built and evolved production systems across finance, ESG/carbon credits, compliance, logistics, and enterprise domains in global, **high-throughput environments**.
 
@@ -13,7 +13,7 @@ Frontend experience with React and Angular applied to dashboards, internal platf
 
 Strong interest in System Design, Distributed Systems, and Cloud Architecture.
 
-**English**: C1 / **Spanish**: B1 / **Portuguese**: Native
+**English**: C1-C2 / **Spanish**: B1 / **Portuguese**: Native
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/george-prado-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
